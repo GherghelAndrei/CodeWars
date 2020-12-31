@@ -1,5 +1,3 @@
-const { hasUncaughtExceptionCaptureCallback } = require("process");
-
 function pascalsTriangle(n) {
   //return a flat array representing the values of Pascal's Triangle to the n-th level
   let array = [];
